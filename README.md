@@ -1,4 +1,4 @@
-## Hey 👋, I'm Muhammad Manamil!
+## Hey 👋, I'm Aamir Yaqoob!
 <a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
 
 <br>
