@@ -11,11 +11,11 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 
 ### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
 
-- 🔭 &nbsp; I’m currently working **TechWare House**
+- 🔭 &nbsp; I’m currently working at  **TechWare House** as Web Developer
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 📺 &nbsp; It's my [Youtube Channel](https://www.youtube.com/channel/UCJ4s7v-DB4e4RldlLDLAfMQ) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/muahammadmanamil/)
+- 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/aamir9484/)
 - 📝 &nbsp; Checkout my [Graphic Work](https://www.facebook.com/graphicdesigningpk)
 
 <br/>
@@ -62,11 +62,5 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
   <tr>
      <td width="300"><a href="http://estate123.com/" target="_blank">Esate123.my</a></td>
      <td width="300"><a href="http://my.matrixinvent.com" target="_blank">my.matrixinvent.com</a></td>
-     <td width="300"><a href="" target="_blank"></a></td>
   </tr>
 </table>
-
-
-
-
-
