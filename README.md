@@ -2,7 +2,7 @@
 <a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
 
 <br>
-Well come to my Github Profile. I am full Stack Website Developer🌐 and Professional Graphic Designer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
+Well come to my Github Profile. I am full Stack Website Developer🌐 and Desktop Application Programmer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
 
 <br/>
 <br/>
