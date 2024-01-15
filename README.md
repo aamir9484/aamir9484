@@ -13,7 +13,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Deskto
 
 - 🔭 &nbsp; I’m currently working at  **TechWare House** as Web Developer
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 📺 &nbsp; It's my [Youtube Channel](https://www.youtube.com/channel/UCJ4s7v-DB4e4RldlLDLAfMQ) 👉
+- 📺 &nbsp; It's my [Youtube Channel](https://www.youtube.com/@aamir9484) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/aamir9484/)
 - 📝 &nbsp; Checkout my [Graphic Work](https://www.facebook.com/graphicdesigningpk)
